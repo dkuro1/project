@@ -1,0 +1,17 @@
+h1 {
+	font-size: 150px;
+	font-style: italic;
+	text-align: center;
+	color: brown;
+	border: 2px solid darkblue;
+	padding: 30px;
+}
+body {
+	background-color: #fdd;
+}
+
+button {
+	padding: 30px 50px;
+	background-color: red;
+	color: royalblue;
+}
